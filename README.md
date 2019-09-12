@@ -12,7 +12,7 @@ This repository contains resources developed within the following paper:
 	Sadri, A., Ren, Y., & Salim, F. D. (2017). Information gain-based metric for recognizing transitions in 
 	human activities. Pervasive and Mobile Computing, 38, 92-109.
   
-You can find the [paper](https://github.com/cruiseresearchgroup/IGTS-Temporal-Segmentation/blob/master/paper/1-s2.0-S1574119217300081-main.pdf) and [presentation](https://github.com/cruiseresearchgroup/IGTS-Temporal-Segmentation/blob/master/Presentation/IGTS-%20Presentation.pptx) in this repository. 
+You can find the [paper](https://github.com/cruiseresearchgroup/IGTS-matlab/blob/master/paper/1-s2.0-S1574119217300081-main.pdf) and [presentation](https://github.com/cruiseresearchgroup/IGTS-matlab/blob/master/Presentation/IGTS-%20Presentation.pptx) in this repository. 
 
 Alternative link: https://www.sciencedirect.com/science/article/pii/S1574119217300081
 
@@ -25,7 +25,7 @@ The repository is structured as follows:
 - `presentation/`: The presentation slides
 
 ## Code
-For `python` code, please refer to this. The matlab codes are available in `code/`. 
+For `python` code, please refer to [this](https://github.com/cruiseresearchgroup/IGTS-python). The matlab codes are available in `code/`. 
 - "GetTS_Syn.m": The function  generates synthetic data
 - "main": Run this file for the implementation of the algorithm. All the variables are defined in this file. 
 - "best_k": It finds the best candidate for the number of the segments based on the given information gain.
